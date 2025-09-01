@@ -23,7 +23,7 @@ const corsOptions = {
     "http://localhost:5173",
     "http://localhost:5174",
     "http://localhost:5175",
-    "https://app-note-frontend.vercel.app/",
+    "https://app-note-frontend.vercel.app",
   ], // frontend domain
   credentials: true, // ✅ allow cookies to be sent
 };
